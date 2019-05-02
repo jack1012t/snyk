@@ -19,7 +19,9 @@
     "cross-env": "^5.2.0",
     "decompress-zip": "0.0.8",
     "express": "^4.16.4",
+    "handlebars": "^4.1.2",
     "nuxt": "^2.4.0",
+    "shell-quote": "^1.6.1",
     "vuetify": "^1.5.5",
     "vuetify-loader": "^1.2.1"
   },
