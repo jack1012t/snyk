@@ -20,7 +20,7 @@
     "decompress-zip": "0.0.8",
     "express": "^4.16.4",
     "handlebars": "^4.1.2",
-    "nuxt": "^2.4.0",
+    "nuxt": "^3.0.0",
     "semver": "^4.3.0",
     "shell-quote": "^1.6.1",
     "vuetify": "^1.5.5",
